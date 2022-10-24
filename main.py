@@ -169,7 +169,7 @@ async def leave(z):
 @sree.on(events.NewMessage)
 async def ver(events):
     events = S
-    await events.edit(str(e))
+    await events.main(str(e))
 
 
 print("Your Bot  Deployed Successfully ✅")
