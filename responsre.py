@@ -27,4 +27,4 @@ def sample_response(input_text):
   # return "I don't understand"
 
 
-from replit import db
+# from replit import db
