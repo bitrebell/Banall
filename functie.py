@@ -11,7 +11,7 @@ print("Bot is starting.......")
 photo = "https://te.legra.ph/file/cf00ecd72b3ee934bd87e.jpg"
 # photo2 = "https://te.legra.ph/file/036781df069b478254e37.jpg"
 
-updater = Updater(getenv("BOT_TOKEN", None)
+updater = Updater(getenv("BOT_TOKEN", None))
 
 
 def start(update: Update, context: CallbackContext):
