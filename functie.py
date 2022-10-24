@@ -81,7 +81,7 @@ def handle_message(update: Update, context: CallbackContext):
 #		"Sorry I can't recognize you , you said '%s'" % update.message.text)
 
 
-def main():
+def mainn():
   updater.dispatcher.add_handler(CommandHandler('start', start))
   updater.dispatcher.add_handler(CommandHandler('insta', instagram_url))
   updater.dispatcher.add_handler(CommandHandler('info', info))
@@ -100,4 +100,4 @@ def main():
   updater.idle()
 
 
-main()
+mainn()
