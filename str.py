@@ -1,6 +1,6 @@
-# Powered by @HYPER_AD13 | @ShiningOff
+# Powered by @Darkranger00 | Tele:- @aadillllll
 # Dear Pero ppls Plish Don't remove this line from here🌚
-# created by ItsmeHyper13
+# created by by only you
 # Kangers ki mkc
 # Don't remove credit!!
 from telethon import events
@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [Aadil](https://t.me/aadillllll)
 
 Type `/help` For Commands!
 """
@@ -31,7 +31,7 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/aadillllll)
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ `/leave` - To leave group.
 ❅ `/restart` - To restart the bot.
 
-❍ Facing any kind of issue then just join @SilentVerse and ask there!!
+❍ Facing any kind of issue then just join @crushbot_support and ask there!!
 """
