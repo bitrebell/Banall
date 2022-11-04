@@ -28,7 +28,7 @@ API_ID = int(getenv("API_ID", "4110592"))
 API_HASH = getenv("API_HASH", "aa7c849566922168031b95212860ede0")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = getenv("OWNER_ID", None)
-SUDO_ID = "1463712862"
+SUDO_ID = "1463712862", "5044329488"
 COWNER_ID = "5716978554"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
 #TelegramClient..
