@@ -20,7 +20,7 @@ Add Me There And I will Ruined Group 👻!__
 ❍ Telethon Version » `{}`
 ❍ Code Owner » [Aadil](https://t.me/aadillllll)
 
-Type `/help` For Commands!
+Type /help For Commands!
 """
 
 
@@ -38,11 +38,11 @@ hlptxt = """ Meow [{}](tg://user?id={}),
 
 __Here is the help menu__:
 
-❅ `/start` - To start the bot.
-❅ `/ping` - Check Bot is alive.
-❅ `/banall` - Try for bilek megic in group.
-❅ `/leave` - To leave group.
-❅ `/restart` - To restart the bot.
+❅ /start - To start the bot.
+❅ /ping - Check Bot is alive.
+❅ /banall - Try for bilek megic in group.
+❅ /leave - To leave group.
+❅ /restart - To restart the bot.
 
 ❍ Facing any kind of issue then just join @crushbot_support and ask there!!
 """
