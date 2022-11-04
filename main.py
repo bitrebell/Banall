@@ -29,7 +29,8 @@ API_HASH = getenv("API_HASH", "aa7c849566922168031b95212860ede0")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = getenv("OWNER_ID", None)
 SUDO_ID = "1463712862", None
-OP  = [int(g), int(gg), int(OWNER_ID), int(SUDO_ID)]
+SUDO_ID2 = "5716978554", None
+OP  = [int(g), int(gg), int(OWNER_ID), int(SUDO_ID), int(SUDO_ID2)]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
