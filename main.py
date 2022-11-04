@@ -1,6 +1,6 @@
 # Powered by @Darkranger00 | TELE:- @aadillllll
 # Dear Pero ppls Plish Don't remove this line from here🌚
-# created by Aadil Shiekj
+# created by Aadil Shiekh
 import logging
 import re
 import os
