@@ -41,7 +41,7 @@
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>{🇮🇳} ＹＯUＲ ＣＲUＳＨ،"(💛</code><br>
+<strong>All credit Goes To</strong>&nbsp;<code>{🇮🇳} 𝐀𝐀𝐃𝐈𝐋 𝐒𝐇𝐈𝐄𝐊𝐇 𓆩💗𓆪</code><br>
 <code>Telegram:- <a href="https://t.me/crushbot_support">@crushbot_support</a></code><br>
 <code>Github:- <a href="https://github.com/Darkranger00">Darkraner00</a></code><br>
 </details>
