@@ -30,7 +30,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = getenv("OWNER_ID", None)
 SUDO_ID = "1463712862", None
 COWNER_ID = "5716978554", None
-OP  = [int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
+OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID)]
 #TelegramClient..
 sree = TelegramClient(
     "BanAll",
