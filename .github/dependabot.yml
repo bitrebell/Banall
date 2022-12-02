@@ -9,10 +9,10 @@ updates:
   labels:
     - "dependencies"
   open-pull-requests-limit: 20
-  ignore:
-    - dependency-name: "python-telegram-bot"
+  # ignore:
+  #  - dependency-name: "python-telegram-bot"
     # Ignoring all ptb updates
-    - dependency-name: "aiohttp"
+ #   - dependency-name: "aiohttp"
     # Ignoring all aiohttp updates
-    - dependency-name: "emoji"
+ #   - dependency-name: "emoji"
     # Removed get_regexp method in update
