@@ -33,7 +33,7 @@
 <pre>
 <p align="center">
 <img src="https://img.shields.io/github/license/bitrebell/Banall.svg"> <img src="https://img.shields.io/github/forks/bitrebell/Banall.svg"> <img src="https://img.shields.io/github/stars/bitrebell/Banall.svg">
-<a href="https://github.com/bitrebell/Banall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkranger00&repo=Banall&theme=blue-green"></a>
+<a href="https://github.com/bitrebell/Banall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bitrebell&repo=Banall&theme=blue-green"></a>
 <a href="https://github.com/bitrebell/Banall/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
