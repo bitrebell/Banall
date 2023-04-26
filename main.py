@@ -24,8 +24,8 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = 10738943
-API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
+API_ID = 10738643
+API_HASH = "da61e3a08b5ac78ce28b4a4cd957aeec"
 BOT_TOKEN = "6151806723:AAEOkTGYlhQNPjrUHZAZBUSnIv-qDnTv-LI"
 OWNER_ID = "6163840192"
 SUDO_ID = "1463712862"
