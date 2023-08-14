@@ -27,8 +27,8 @@ logging.basicConfig(
 API_ID = int(os.getenv("API_ID", ""))
 API_HASH = os.getenv("API_HASH", "")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = "6163840192"
-SUDO_ID = "1463712862"
+OWNER_ID = os.getenv("OWNER_ID", "")
+SUDO_ID = "6163840192"
 LUCIFER = "5044329488"
 COWNER_ID = "5716978554"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
