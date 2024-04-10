@@ -6,6 +6,6 @@ telegram
 certifi==2024.2.2
 chardet==5.2.0
 idna==3.6
-pyTelegramBotAPI==4.16.1
+pyTelegramBotAPI==4.17.0
 requests==2.31.0
 urllib3==2.2.1
