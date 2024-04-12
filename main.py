@@ -1,4 +1,4 @@
-# Powered by @Darkranger00 | TELE:- @aadillllll
+ # Powered by @Darkranger00 | TELE:- @aadillllll
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by Aadil Shiekh
 import logging
@@ -24,10 +24,10 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = int(os.getenv("API_ID", ""))
-API_HASH = os.getenv("API_HASH", "")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-OWNER_ID = os.getenv("OWNER_ID", "")
+API_ID = "10738943"
+API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
+BOT_TOKEN = "7063154314:AAE3E5jD3PSrRLvlIyPrWaAqlWiqaGc88KU"
+OWNER_ID = "6771364361"
 SUDO_ID = "6163840192"
 LUCIFER = "5044329488"
 COWNER_ID = "5716978554"
