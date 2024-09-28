@@ -1,7 +1,7 @@
 telethon
 asyncio
 python-dotenv
-python-telegram-bot==20.3
+python-telegram-bot==21.3
 telegram
 certifi==2024.7.4
 chardet==5.1.0
