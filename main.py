@@ -5,7 +5,7 @@ import logging
 import re
 import os
 import sys, platform
-# import functie as S
+import functie as S
 from asyncio import sleep
 from os import getenv
 from dotenv import load_dotenv
