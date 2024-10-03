@@ -169,10 +169,7 @@ async def leave(z):
             except Exception as e:
                 await z.edit(str(e))
 
-@sree.on(events.NewMessage)
-async def ver(events):
-    events = S
-    await events.main(str(e))
+
 
 
 print("Your Bot  Deployed Successfully ✅")
