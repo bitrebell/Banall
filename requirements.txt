@@ -4,7 +4,7 @@ python-dotenv
 python-telegram-bot==22.2
 telegram
 certifi==2025.7.14
-chardet==5.1.0
+chardet==5.2.0
 idna==3.10
 pyTelegramBotAPI==4.27.0
 requests==2.32.4
