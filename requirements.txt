@@ -5,7 +5,7 @@ python-telegram-bot==22.2
 telegram
 certifi==2025.7.14
 chardet==5.2.0
-idna==3.10
+idna==3.11
 pyTelegramBotAPI==4.27.0
 requests==2.32.4
 urllib3==2.5.0
