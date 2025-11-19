@@ -1,11 +1,11 @@
 telethon
 asyncio
 python-dotenv
-python-telegram-bot==22.2
+python-telegram-bot==22.5
 telegram
-certifi==2025.7.14
+certifi==2025.11.12
 chardet==5.2.0
-idna==3.10
-pyTelegramBotAPI==4.29.1
+idna==3.11
+pyTelegramBotAPI==4.27.0
 requests==2.32.4
 urllib3==2.5.0
